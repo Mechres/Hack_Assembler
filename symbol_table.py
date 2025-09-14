@@ -35,5 +35,5 @@ def contains(symbol):
     return symbol in table
 
 # Sembolün adresini ver
-def getAdress(symbol):
+def getAddress(symbol):
     return table[symbol]
